@@ -12,7 +12,7 @@ Este script utiliza a API do Google Generative AI para converter imagens em cód
 **Como usar:**
 
 1. **Configure sua chave de API:**
-    * Substitua `"AIzaSyCCzqq1DrII6NW-1bpyTpF1EJQQ8qf5Zsk"` no script pela sua chave de API do Google Generative AI.
+    * Substitua `"chaveAPI"` no script pela sua chave de API do Google Generative AI.
 2. **Execute o script:**
     * Abra um terminal e execute o script com o caminho da imagem como argumento:
     ```bash
