@@ -5,21 +5,8 @@ Este script utiliza a API do Google Generative AI para converter imagens em cód
 
 **Requisitos:**
 
-* Python 3.x
 * Biblioteca `google-generativeai` (instale com `pip install google-generativeai`)
 * Chave de API do Google Generative AI (configure seguindo as instruções da documentação)
-
-**Como usar:**
-
-1. **Configure sua chave de API:**
-    * Substitua `"chaveAPI"` no script pela sua chave de API do Google Generative AI.
-2. **Execute o script:**
-    * Abra um terminal e execute o script com o caminho da imagem como argumento:
-    ```bash
-    python transforme_latex.py /caminho/para/sua/imagem.png
-    ```
-3. **Obtenha o código LaTeX:**
-    * O código LaTeX gerado será impresso no terminal.
 
 **Explicação do código:**
 
